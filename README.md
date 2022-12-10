@@ -53,8 +53,11 @@ npm run start
 7. Open up a Browser and go to `http://localhost:8080/`
 
 8. check Chrome console for "Hello Template console"
+![Screenshot 2022-12-09 at 5 55 57 PM](https://user-images.githubusercontent.com/13372496/206823134-449ad2a1-caf4-4296-ba88-23540488c645.png)
+
 
 9. Check from Terminal
 ```
 npm run go
 ```
+![Screenshot 2022-12-09 at 5 55 26 PM](https://user-images.githubusercontent.com/13372496/206823142-8738336f-6df1-4a78-b6b6-a6c2ea954dc5.png)
