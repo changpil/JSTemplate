@@ -1,0 +1,15 @@
+{
+    "name": "template",
+    "version": "1.0.0",
+    "description": "JavaScript Template to run and test JS",
+    "main": "index.js",
+    "scripts": {
+        "start": "snowpack dev",
+        "go": "node index.js",
+        "test": "echo 'Error: no test specified' && exit 1"
+    },
+    "author": "Chang",
+    "devDependencies": {
+        "snowpack": "^3.8.8"
+    }
+}
