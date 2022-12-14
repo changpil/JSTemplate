@@ -11,5 +11,8 @@
     "author": "Chang",
     "devDependencies": {
         "snowpack": "^3.8.8"
+    },
+    "dependencies": {
+        "jquery": "^3.6.2"
     }
 }
